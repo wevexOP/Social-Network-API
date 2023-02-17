@@ -45,11 +45,11 @@ npm start
 
 #### Video Demo
 
-[Click me to see the demo video!]()
+[Click me to see the demo video!](https://www.youtube.com/watch?v=JbXgxUcCyOs&ab_channel=wevexOP)
 
 #### Insomnia Screenshot
 
-![Screenshot](./screenshot/insomnia.png)
+![Screenshot](./screenshots/insomniasc.png)
 
 ## License
 
