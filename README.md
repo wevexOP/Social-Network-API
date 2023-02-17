@@ -28,7 +28,7 @@ Project is created with:
 ## Installation
 
 Note: You must first have MongoDB installed on your device and the software running. 
- 
+
 To run this project, install it locally using npm:
 
 ```
@@ -45,7 +45,7 @@ npm start
 
 #### Video Demo
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
+[Click me to see the demo video!]()
 
 #### Insomnia Screenshot
 
