@@ -6,13 +6,13 @@ const UserSchema = new Schema(
       type: String,
       unique: true,
       trim: true,
-      required: "wevexOP",
+      required: "user",
     },
 
     email: {
       type: String,
       unique: true,
-      required: "dompaulazzo@gmail.com",
+      required: "email@email.com",
       match: [/.+@.+\..+/],
     },
 
